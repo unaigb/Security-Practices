@@ -1,4 +1,5 @@
-# NUNCA subir material criptográfico privado
+# Material criptográfico privado: no se sube por defecto
+# (excepción: las prácticas 2 y 3 se publican completas, ver más abajo)
 *.pem
 *.key
 *.priv
@@ -10,3 +11,7 @@
 # Capturas de red (pueden contener datos reales)
 *.pcap
 *.pcapng
+
+# Excepción: certificados y claves de las prácticas 2 y 3
+!02-certificados-x509/**
+!03-web-seguro/**
