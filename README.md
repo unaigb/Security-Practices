@@ -68,14 +68,14 @@ openssl req -new -key serverkey.pem -out servercsr.pem
 
 ```
 Security-Practices/
-├── 01-cifrado/                      # Salidas de las pruebas de cifrado (apartados A, B y C)
+├── 01-cifrado/                      # Memoria y salidas de las pruebas de cifrado, claves y firmas (apartados A, B y C)
 ├── 02-certificados-x509/            # Memoria, claves, certificados y CSR (CAcert)
 ├── 03-web-seguro/                   # Memoria, CA propia y certificados de servidor y de usuario (Apache)
-├── 04-firma-legal/ficheros/         # Mensajes de ejemplo de la práctica de firma
+├── 04-firma-legal/                  # Memoria, certificados y documentos firmados (Autofirma)
 ├── 05-vulnerabilidades/             # Memoria
 ├── 06-integridad-control-acceso/    # Memoria, centinelas y hashes
-├── 07-configuraciones-seguras/      # Memoria y correcciones
-└── 08-trafico-tls-wireshark/        # Memoria y correcciones
+├── 07-configuraciones-seguras/      # Memoria
+└── 08-trafico-tls-wireshark/        # Memoria y capturas de Wireshark (.pcap)
 ```
 
 ---
@@ -103,9 +103,8 @@ Security-Practices/
 
 ## 📝 Notas
 
-- Las **prácticas 2 y 3 se publican completas**: memoria, claves, certificados y peticiones de firma, tal y como se generaron en clase. Los mismos ficheros están también en el repositorio de [Alberto](https://github.com/albergm02/Security-Systems). Se crearon para las prácticas: no los reutilices para nada real.
-- En el resto de prácticas **no se incluyen claves, certificados ni capturas de red** (`.pem`, `.key`, `.p12`, `.pfx`, `.pcap`); el `.gitignore` los excluye por defecto.
-- Las memorias de las prácticas 1 y 4 no se publican.
+- Se publica **todo el material de las ocho prácticas tal y como se generó en clase**: memorias, claves, certificados, firmas y capturas de red. Buena parte de estos ficheros están también en el repositorio de [Alberto](https://github.com/albergm02/Security-Systems).
+- Las claves y los certificados se crearon solo para las prácticas: **no los reutilices para nada real**.
 
 ---
 
