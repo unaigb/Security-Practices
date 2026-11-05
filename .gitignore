@@ -1,0 +1,12 @@
+# NUNCA subir material criptográfico privado
+*.pem
+*.key
+*.priv
+*.p12
+*.pfx
+*.srl
+*.csr
+
+# Capturas de red (pueden contener datos reales)
+*.pcap
+*.pcapng

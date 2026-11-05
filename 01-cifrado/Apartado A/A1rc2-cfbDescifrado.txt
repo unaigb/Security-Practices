@@ -1,0 +1,3 @@
+Fichero creado para la prueba de distintos algoritmos de cifrado con varios modos de operación usando openssl.
+
+27/09/2024
