@@ -1,0 +1,3 @@
+Fichero creado para comprobar la diferencia de tamanio entre un mensaje y su cifrado
+
+Ejemplo ejemplo

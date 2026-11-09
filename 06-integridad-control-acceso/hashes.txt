@@ -1,0 +1,2 @@
+usuario1:$6$dxsci64JvCqJhLf5$17jdfSwUfLFamVGCeMm3/0o2KbMR.9bROrRgDDZ78u7QOqZXkvqEprc.rVtKAbwPJj5VZlv3C3qSnzvikq2Ed/:20049:0:99999:7:::
+usuario2:$6$qUgtDGdewyVLGkCk$QjigoaY5ksfOZ9rdRUSgy24NJFdHMskzYlO7155DHdBuFwcTw6IcDravgYzrf9JMC85HcX7n4rqiJ/wMlB8/11:20049:0:99999:7:::

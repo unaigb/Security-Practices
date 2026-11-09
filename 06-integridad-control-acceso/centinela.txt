@@ -1,0 +1,6 @@
+fd8b2e147c13deae665208c065ca55823fe855a627853d9b1759c84d1f099759  /home/unaigb/Escritorio/SSI/unai_certificate.pem
+40ff9ae5e227dff94770ef7cdcbc99c250048a6265a7dcca3173fbf90d4d7199  /home/unaigb/Escritorio/SSI/key.pem
+e7bdb118b54ff31d89622ec5c973f68ae4c7b457cde441af800d9dae927e8372  /home/unaigb/Escritorio/SSI/unaiCertificado.p12
+9f3ff9376466774ed4c41e1f429200b0820abc01f018ebba98f23e809a5f0890  /home/unaigb/Escritorio/SSI/unai_privateKey.pem
+ac220bec79f2bbd1b0ac45d6da5e5f8e90529d89bb2c565f4e00c4c84e0c0b15  /home/unaigb/Escritorio/SSI/cert.pem
+ccaa1642319175c57424492cfb3793e7c352759436e72bed113ea971fc722db0  /home/unaigb/Escritorio/SSI/cert.srl
